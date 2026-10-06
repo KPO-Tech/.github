@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
+    <img src="logo-light.svg" alt="KPO-Tech" width="120">
+  </picture>
+</p>
+
 # KPO-Tech
 
 Tech projects by **Stéphane Kpoviessi**.
