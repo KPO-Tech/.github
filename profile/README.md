@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KPO-Tech/seshat-runtime/releases/latest"><img src="https://img.shields.io/github/v/release/KPO-Tech/seshat-runtime?label=Seshat%20Runtime&color=EA7828&style=flat-square" alt="Latest Seshat Runtime release"></a>
   <img src="https://img.shields.io/badge/Go-1.26%2B-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go 1.26+">
   <img src="https://img.shields.io/badge/License-Apache%202.0-brightgreen?style=flat-square" alt="Apache 2.0">
   <img src="https://img.shields.io/badge/Linux%20%C2%B7%20macOS%20%C2%B7%20Windows-555?style=flat-square" alt="Linux, macOS, Windows">
@@ -33,7 +32,7 @@ KPO-Tech builds **Seshat**, an open-source agent runtime written in Go, and the 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KPO-Tech/seshat-runtime/main/docs/images/seshat-demo.gif" alt="Seshat delegates a research task to five sub-agents working in parallel, shown in the terminal interface" width="820">
 </p>
-<p align="center"><i>One request, five sub-agents working in parallel, in the Seshat terminal interface.</i></p>
+<p align="center"><i>One request, five sub-agents working in parallel, in the Seshat terminal interface (film in French).</i></p>
 
 | | Product | What it is | Status |
 |---|---|---|---|
